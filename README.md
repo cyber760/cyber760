@@ -18,5 +18,11 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, programming, e
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cyber760&icon=2&color=0)](https://visitcount.itsvg.in)
+ Featured Projects
 
+KRITI AI – Personal desktop assistant and automation project.
+Cybersecurity Toolkit – Tools for authorized security learning and assessment.
+Personal Portfolio – My professional portfolio website.
+Explore my repositories for more projects!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
