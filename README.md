@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Hey,
+    I'm Jatin Kumar 👋
+
+Cybersecurity Enthusiast | Developer | Technology Explorer
+Welcome to my GitHub profile! I'm passionate about cybersecurity, programming, ethical hacking, and building useful technology projects.
 
 
 # 💻 Tech Stack:
